@@ -1,0 +1,28 @@
+# Node
+node_modules/
+dist/
+out/
+.npmrc
+npm-debug.log*
+yarn.lock
+package-lock.json
+pnpm-lock.yaml
+
+# OS / Editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Env
+.env
+.env.*
+
+# Local tooling/artifacts
+.swarm/
+.claude-flow/
+
+# Media
+*.mp4
+
+
